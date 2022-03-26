@@ -11,6 +11,7 @@
   inputs.src-termnovel-1_0_0.ref   = "refs/tags/1.0.0";
   inputs.src-termnovel-1_0_0.owner = "jiro4989";
   inputs.src-termnovel-1_0_0.repo  = "termnovel";
+  inputs.src-termnovel-1_0_0.dir   = "";
   inputs.src-termnovel-1_0_0.type  = "github";
   
   inputs."cligen".owner = "nim-nix-pkgs";
