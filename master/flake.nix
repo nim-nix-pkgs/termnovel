@@ -11,7 +11,6 @@
   inputs.src-termnovel-master.ref   = "refs/heads/master";
   inputs.src-termnovel-master.owner = "jiro4989";
   inputs.src-termnovel-master.repo  = "termnovel";
-  inputs.src-termnovel-master.dir   = "";
   inputs.src-termnovel-master.type  = "github";
   
   inputs."cligen".owner = "nim-nix-pkgs";
